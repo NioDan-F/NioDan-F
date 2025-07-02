@@ -25,6 +25,13 @@ I'm Nguyen Ba Quyet — a fresh graduate passionate about automation, embedded s
 
 ---
 
+### 🌱 What I'm Into
+- Turning coffee into code ☕
+- Making embedded systems run smoother than ever 🛠️
+- Creating PCB layouts that even future me won’t curse 😅
+- Always exploring automation, IoT, and smarter living
+
+---
 ### ✨ Quote
 > “Make it blink, make it work, and make it smart.” – Engineer Quyet  
 
