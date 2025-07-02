@@ -18,7 +18,7 @@ I'm Nguyen Ba Quyet — a fresh graduate passionate about automation, embedded s
 ### 🛠️ Skills
 
 - **Programming Skills**: Data Structure & Algorithms, Object-Oriented Programming (OOP)  
-- **Programming Languages**: C/C++  
+- **Programming Languages**: C/C++, x86
 - **Embedded Systems**: STM32, ESP32, Arduino  
 - **PCB Design**: Experienced in Altium Designer  
 - **Software Tools**: VS Code, Arduino IDE, Keil C, Altium Designer
